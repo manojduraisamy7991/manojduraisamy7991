@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @manojduraisamy7991
-- 👀 I’m interested in learning
-
+- 👋 Hi, I’m Manoj
+- 👀 I’m FrontEnd Engineer, Build Web Apps
