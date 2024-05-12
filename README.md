@@ -12,12 +12,3 @@ Hello there!
 📌 Here's a link to my Portfolio 
 https://master--manoj-frontend-engineer-portfolio.netlify.app/
 
-📌 Reach out to me:    
-
-🛠   Languages & Frameworks :
-
-💻 Languages  
-
-💻 Front-End Development       
-
-💻 Backend Development and Database Management    
