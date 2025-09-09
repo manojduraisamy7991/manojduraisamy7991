@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manoj
-- 👀 I’m FrontEnd Engineer, Build Web Apps
+- 👀 I’m MERN Stack Developer, Build Web Apps
 
 
 Hello there! 
