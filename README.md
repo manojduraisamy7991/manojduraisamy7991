@@ -1,11 +1,10 @@
-- 👋 Hi, I’m Manoj
-- 👀 I’m MERN Stack Developer, Build Web Apps
-
+- 👋 Hi, I’m Manoj d ( React.js, Next.js, Angular )
+- 👀 I’m a Frontend Developer, building web Apps
 
 Hello there! 
 📌 I'm currently working as a Software Engineer - Frontend @aspire Systems & have worked as a Frontend Engineer @aspire Systems and a B.E graduate in CSE from India, India. I want to take my passion, education, and experience to develop websites, web apps.
 
-📌 I've been programming for more than 3+ years and have developed my passion for frontend development. I've developed many full-stack projects focusing on responsiveness, accessibility, and performance.
+📌 I've been programming for more than 4+ years and have developed my passion for frontend development. I've developed many full-stack projects focusing on responsiveness, accessibility, and performance.
 
 📌 My interests are developing cutting-edge real-world projects and learning new technologies. Apart from coding, I love watching movies and playing cricket.
 
