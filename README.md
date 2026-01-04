@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manoj d ( React.js, Next.js, Angular )
+- 👋 Hi, I’m Manoj d ( React.js, Next.js )
 - 👀 I’m a Frontend Developer, building web Apps
 
 Hello there! 
