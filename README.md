@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manoj d ( React.js, Next.js, Java )
+- 👋 Hi, I’m Manoj d ( React.js, Next.js,.Net Full Stack Developer (C#,ASP.NET MVC, SQL Server, React) )
 - 👀 I’m a full stack developer , building web Apps
 
 Hello there! 
