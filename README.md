@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manoj d ( React.js, Next.js,mern Stack Developer (nodejs, React) )
+- 👋 Hi, I’m Manoj d ( React.js, Next.js,mern Stack Developer (.net, React) )
 - 👀 I’m a full stack developer , building web Apps
 
 Hello there! 
