@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Manoj d ( React.js, Next.js,mern Stack Developer (.net, React) )
-- 👀 I’m a full stack developer , building web Apps
+- 👋 Hi, I’m Manoj D ( React.js, Next.js, Dotnet Developer (.net, React) )
+- 👀 I’m a full-stack developer, building web Apps
 
 Hello there! 
-📌 I'm currently working as a Software Engineer - fullstack @aspire Systems & have worked as a Frontend Engineer @aspire Systems and a B.E graduate in CSE from India, India. I want to take my passion, education, and experience to develop websites, web apps.
+📌 I'm currently working as a Software Engineer - full-stack @aspire Systems & have worked as a Frontend Engineer @aspire Systems and a B.E graduate in CSE from India. I want to take my passion, education, and experience to develop websites and web apps.
 
 📌 I've been programming for more than 4+ years and have developed my passion for frontend development. I've developed many full-stack projects focusing on responsiveness, accessibility, and performance.
 
@@ -10,4 +10,3 @@ Hello there!
 
 📌 Here's a link to my Portfolio 
 https://master--manoj-frontend-engineer-portfolio.netlify.app/
-
