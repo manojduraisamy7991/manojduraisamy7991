@@ -9,4 +9,4 @@ Hello there!
 📌 My interests are developing cutting-edge real-world projects and learning new technologies. Apart from coding, I love watching movies and playing cricket.
 
 📌 Here's a link to my Portfolio 
-https://master--manoj-frontend-engineer-portfolio.netlify.app/
+https://manoj-dotnet-fullstack-portfolio.vercel.app/
