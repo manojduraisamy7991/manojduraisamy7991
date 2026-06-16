@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manoj D ( React.js, Next.js, Dotnet Developer (.net, React) )
+- 👋 Hi, I’m Manoj D ( React.js, Next.js, Python Developer (FastAPI, React) )
 - 👀 I’m a full-stack developer, building web Apps
 
 Hello there! 
