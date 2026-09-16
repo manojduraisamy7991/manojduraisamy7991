@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manoj D (Software Developer (Java/spring-boot/Sql/Reactjs/nextjs) )
+- 👋 Hi, I’m Manoj D (Software Developer (Python/fast api/Sql/Reactjs/nextjs) )
 - 👀 I’m a full-stack developer, building web Apps
 
 Hello there! 
