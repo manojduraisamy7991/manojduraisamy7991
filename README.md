@@ -1,0 +1,3 @@
+- 👋 Hi, I'm **Manoj D**, an **AI Engineer** specializing in Generative AI, LLMs, RAG, and AI Agents.
+- 🧠 Building intelligent AI applications with **Python, FastAPI, Gemini, Groq**, and **vector databases**.
+- 💻 Full-stack developer with **React.js, Next.js, MongoDB, MySQL**, turning ideas into AI-powered products.
